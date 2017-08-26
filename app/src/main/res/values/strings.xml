@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Pitchfork Best New Albums</string>
+    <string name="detail_page_title">Album Review</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+</resources>
